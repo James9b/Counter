@@ -11,5 +11,5 @@ A simple, lightweight Counter App built with **HTML**, **CSS**, and **JavaScript
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/counter-app.git
-   cd counter-app
+   git clonehttps://github.com/James9b/Counter.git
+   cd Counter
